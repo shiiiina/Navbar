@@ -1,4 +1,4 @@
-# JSON-Navbar
+# Navbar
 
 > **[Github Pages Example](https://shiiiina.github.io/JSON-Navbar/example.html)**
 
